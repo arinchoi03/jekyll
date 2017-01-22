@@ -5,7 +5,7 @@
 #
 title: Yej Arin Choi
 email: yej.arin.choi@gmail.com
-description: my private practice site
+description: learning to code in HTML/CSS/Javascript
 url: # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Yejee Arin Choi
   avatar: leonids-logo.png
-  job: "learning to code"
+  job: "learning to code - class of GHA '17"
   bio: "born in Seoul, raised in Texas, now in NYC"
   email: yej.arin.choi@gmail.com
   disqus-shortname:
